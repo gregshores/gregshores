@@ -2,4 +2,4 @@
 
 * [gregshores.com](https://gregshores.com)
 
-* [gregshores.github.io](https://gregshores.github.io)
+* [github.com/gregshores](https://github.com/gregshores)
