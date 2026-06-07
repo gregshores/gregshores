@@ -1,0 +1,50 @@
+body {
+    background-color:#857659;
+    color:#ffffff;
+    border:0px;
+    margin:0px;
+    overflow:hidden;
+}
+.wrapper {
+    position:absolute;
+    top:10%;
+    left:0px;
+    right:0px;
+    width:100%;
+    height:auto;
+}
+.message {
+    float:left;
+    width:100%;
+    height:auto;
+    font-size:18px;
+    text-align:center;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.round {
+    max-width:480px;
+    border-radius: 50%;
+}
+.square {
+    max-width:480px;
+}
+a:link {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #969696;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
